@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aziz
-============================================================================================================================
-About me
-------------
+<h1 align="">Hey, I'm Aziz 👋</h1>
+
+<h3 align="">About me</h3>
+
 
 *   Data Analyst
 *   I'm based in Saint Petersburg
