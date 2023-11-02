@@ -1,9 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aziz
 ============================================================================================================================
+About me
+------------
 
-*   🌍  I'm based in Saint Petersburg
-*   ✉️  You can contact me at [aziznematov.job@gmail.com](mailto:aziznematov.job@gmail.com)
-*   🧠  I'm learning Algorithms
+*   Data Analyst
+*   I'm based in Saint Petersburg
+*   I'm currently learning Algorithms
+
+<div id="header" align=""> 
+  <a href="mailto:aziznematov@gmail.com">
+    <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+  </a>
+</div>  
 
 ### My stack
 
