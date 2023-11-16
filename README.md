@@ -3,9 +3,9 @@
 <h3 align="">About me</h3>
 
 
-*   Data Analyst
+*   Data Scientist
 *   I'm based in Saint Petersburg
-*   I'm currently learning Algorithms
+*   I'm currently learning CNN and Algorithms
 
 <div id="header" align=""> 
   <a href="mailto:aziznematov@gmail.com">
